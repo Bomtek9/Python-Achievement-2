@@ -2,12 +2,11 @@ Task 2.7
 
 EXECUTION FLOW:
 
+Homepage:
+Upon successful login, the user lands on the homepage.
 
 User Login:
 If the user is already registered, they have two login options: i) directly from the homepage or ii) through the login option in the navbar. After logging in, they are redirected to the homepage.
-
-Homepage:
-Upon successful login, the user lands on the homepage.
 
 Browse Recipes: User can browse all recipes
 
