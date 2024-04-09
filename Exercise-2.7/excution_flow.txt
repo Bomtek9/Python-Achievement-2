@@ -1,0 +1,44 @@
+TASK 2.7:
+
+Step 1: What Users Should Be Able to Search For:
+
+I chose to have a user search by difficulty. 
+
+What Would the Output Look Like:
+
+This will render a recipe list showing all recipes that match the submitted search criteria.
+
+DATA ANALYSIS:
+
+Bar Chart (Horizontal Bar Chart):
+X-axis: Recipe Name
+Y-axis: Difficulty
+Description: Display a horizontal bar chart that shows each recipe's name on the x-axis and its difficulty on the y-axis. This chart provides a visual comparison of difficulty for different recipes.
+
+Pie Chart:
+
+Description: Create a pie chart to represent the percentage difficulty each recipe in comparison to each other. This pie chart will illustrate the distribution of difficulty among the available recipes.
+
+Line Chart:
+X-axis: Recipe Name
+Y-axis: Difficulty
+Description: Construct a line chart that plots each recipe's name on the x-axis and its difficulty on the y-axis. This chart allows you to visualize any trends or patterns related to difficulty across recipes.
+
+EXECUTION FLOW:
+
+
+User Login:
+If the user is already registered, they have two login options: i) directly from the homepage or ii) through the login option in the navbar. After logging in, they are redirected to the homepage.
+
+Homepage:
+Upon successful login, the user lands on the homepage.
+
+Browse Recipes: User can browse all recipes
+
+Search Recipes:
+User can search recipes based on difficulty
+
+Search Results: User will see all recipes that meet the difficulty criteria.
+
+Logout:
+The user can log out of their account, ending their session securely.
